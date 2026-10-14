@@ -1,8 +1,7 @@
 # FanDeck for Atomberg — macOS menu bar app
 
 Control Atomberg smart ceiling fans from your Mac's menu bar: power on/off, speed (1–6),
-and light on/off. Built on the **official [Atomberg Home Public API](https://developer.atomberg-iot.com/overview)** —
-no reverse engineering, no traffic sniffing, no firmware changes.
+and light on/off. Built on the **official [Atomberg Home Public API](https://developer.atomberg-iot.com/overview)**.
 
 > **Trademark & affiliation.** This project is an independent, unofficial tool. It is not
 > affiliated with, authorized, endorsed by, or sponsored by Atomberg Technologies Pvt. Ltd.

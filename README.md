@@ -13,6 +13,17 @@ no reverse engineering, no traffic sniffing, no firmware changes.
 
 ---
 
+## Screenshot
+
+<p align="center">
+  <img src="assets/menubar.png" alt="FanDeck for Atomberg menu bar app showing a list of fans with power switches, speed sliders, and light toggles" width="340">
+</p>
+
+The menu bar panel: each online fan has a power switch, a 1–6 speed slider, and a light on/off
+toggle; offline fans are dimmed. The footer shows the last update time and today's API-call count.
+
+---
+
 ## Contents
 
 - [Quick start](#quick-start)

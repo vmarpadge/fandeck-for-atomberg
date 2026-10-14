@@ -1,0 +1,27 @@
+# Build output
+AtombergFans/build/
+*.xcodeproj/
+DerivedData/
+
+# This repository ships the menu bar app only.
+# The other components live on disk but are intentionally not tracked here.
+poc/
+AtombergFans/App/
+AtombergFans/Widget/
+AtombergFans/generate.sh
+AtombergFans/project.yml
+AtombergFans/Shared/CredentialStore.swift
+AtombergFans/Shared/Intents.swift
+docs/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Never commit credentials or cached tokens
+*.token.json
+token.json
+.env
